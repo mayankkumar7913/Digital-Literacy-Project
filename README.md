@@ -75,7 +75,7 @@ The project focuses on responsible use of digital tools, effective communication
 ---
 
 ## 🔗 Repository Link
-👉 https://github.com/vishwanbadgujar/Digital-Literacy-Project  
+👉 https://github.com/mayankkumar7913/Digital-Literacy-Project 
 
 ---
 
